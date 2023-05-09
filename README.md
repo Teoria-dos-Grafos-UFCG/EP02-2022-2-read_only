@@ -86,8 +86,10 @@ Como exemplo, considere o DDC abaixo. Os valores de *fan_out* e *fan_in* para ca
 
 **Arquivos**:
 * EP02/src/Q01.py (local onde a função deve ser construída)
-* EP02/tests/test_Q01.py (testes automáticos)
 * EP02/main_EP01_Q01.py (exemplo de uso da função)
+
+**Testes**:
+        python -m unittest -v EP02-2022-2-read_only/test/test_Q01.py
 
 ## Questão 02: Vilãs Globais
 
@@ -108,8 +110,11 @@ Como exemplo, considere o DDC abaixo. Para este grafo, considerando *threshold =
 
 **Arquivos**:
 * EP02/src/Q02.py (local onde a função deve ser construída)
-* EP02/tests/test_Q02.py (testes automáticos)
 * EP02/main_EP01_Q02.py (exemplo de uso da função)
+
+
+**Testes**:
+        python -m unittest -v EP02-2022-2-read_only/test/test_Q02.py
 
 
 ## Questão 03: Dependências
@@ -131,8 +136,11 @@ Como exemplo, considere o DDC abaixo. Para este grafo, a função deve retornar 
 
 **Arquivos**:
 * EP02/src/Q03.py (local onde a função deve ser construída)
-* EP02/tests/test_Q03.py (testes automáticos)
 * EP02/main_EP01_Q03.py (exemplo de uso da função)
+
+
+**Testes**:
+        python -m unittest -v EP02-2022-2-read_only/test/test_Q03.py
 
 ## Questão 04: Minimum Feedback Set
 
@@ -183,8 +191,11 @@ Note que esta heurística não é um algoritmo. Poderão haver casos em que o MF
 
 **Arquivos**:
 * EP02/src/Q04.py (local onde a função deve ser construída)
-* EP02/tests/test_Q04.py (testes automáticos)
 * EP02/main_EP01_Q04.py (exemplo de uso da função)
+
+
+**Testes**:
+        python -m unittest -v EP02-2022-2-read_only/test/test_Q04.py
 
 ## Questão 05 : Estimativa de Custo de Manutenção
 
@@ -208,8 +219,11 @@ Como exemplo, vamos considerar o DDC acima e a classe **a**. Esta classe faz par
 
 **Arquivos**:
 * EP02/src/Q05.py (local onde a função deve ser construída)
-* EP02/tests/test_Q05.py (testes automáticos)
 * EP02/main_EP01_Q05.py (exemplo de uso da função)
+
+
+**Testes**:
+        python -m unittest -v EP02-2022-2-read_only/test/test_Q05.py
 
 ## Questão 6: Ordem de Classes
  
@@ -233,6 +247,8 @@ Construa uma função, **class_order**, que recebe como entrada um *ddc* e retor
 
 **Arquivos**:
 * EP02/src/Q06.py (local onde a função deve ser construída)
-* EP02/tests/test_Q06.py (testes automáticos)
 * EP02/main_EP01_Q06.py (exemplo de uso da função)
 
+
+**Testes**:
+        python -m unittest -v EP02-2022-2-read_only/test/test_Q06.py
