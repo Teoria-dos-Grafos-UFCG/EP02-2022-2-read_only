@@ -3,7 +3,7 @@
 Este repositório apresenta um template para a execução da avaliação EP02. O objetivo desta atividade é construir funções em Python, usando o pacote o pacote [NetWorkX](https://networkx.org/) de Python que implementem as tarefas indicadas nas questões a seguir. Use a estrutura já disponível neste template. 
 
 **Orientações Gerais**:
-* Não altere a estrutura do repositório ou modifique nomes dos arquivos ou folders;
+* Não altere a  estrutura do repositório ou modifique nomes dos arquivos ou folders;
 
 * Implemente as funções ou testes solicitados sem realizar qualquer alteração em sua assinatura (nomes e parâmetros), visto que esta avaliação terá como parte de sua correção a execução de testes automáticos;
 

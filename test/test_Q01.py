@@ -1,6 +1,6 @@
 import unittest
 import networkx as nx
-from EP02.src.Q01 import class_metrics
+from EP02.src.Q01 import class_metrics 
 from parameterized import parameterized
 
 # Test Data

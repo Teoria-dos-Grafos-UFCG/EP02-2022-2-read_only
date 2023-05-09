@@ -1,6 +1,6 @@
 import unittest
 import networkx as nx
-from EP02.src.Q05 import change_costs_factor
+from EP02.src.Q05 import change_costs_factor 
 from parameterized import parameterized
 
 # Test Data
