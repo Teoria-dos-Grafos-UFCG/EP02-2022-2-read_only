@@ -1,6 +1,6 @@
 import unittest
 import networkx as nx
-from EP02.src.Q04 import mfs_greedy 
+from src.Q04 import mfs_greedy 
 from parameterized import parameterized
 
 # Test Data

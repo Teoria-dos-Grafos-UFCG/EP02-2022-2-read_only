@@ -1,6 +1,6 @@
 import unittest
 import networkx as nx
-from EP02.src.Q06 import class_order 
+from src.Q06 import class_order 
 from parameterized import parameterized
 
 # Test Data

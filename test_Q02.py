@@ -1,6 +1,6 @@
 import unittest
 import networkx as nx
-from EP02.src.Q02 import silent_villains 
+from src.Q02 import silent_villains 
 from parameterized import parameterized
 
 # Test Data

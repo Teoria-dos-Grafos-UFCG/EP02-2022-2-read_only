@@ -1,6 +1,6 @@
 import unittest
 import networkx as nx
-from EP02.src.Q03 import dependencies 
+from src.Q03 import dependencies 
 from parameterized import parameterized
 
 # Test Data
