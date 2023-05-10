@@ -3,6 +3,23 @@
 Este repositório apresenta um template para a execução da avaliação EP02. O objetivo desta atividade é construir funções em Python, usando o pacote o pacote [NetWorkX](https://networkx.org/) de Python que implementem as tarefas indicadas nas questões a seguir. Use a estrutura já disponível neste template. 
 
 **Orientações Gerais**:
+
+* O folder **EP02-2022-2-read_only** é um submodulo do git que contém os seguintes arquivos compartilhados:
+
+    - **EP02-2022-2-read_only/README.md**, com a descrição detalhada desta atividade;
+
+    - **EP02-2022-2-read_only/test/**, folder com os testes automáticos que serão aplicados durante a correção desta atividade. Orientações sobre como executar os testes encontram-se no README.md;
+
+    Ao clonar este repositório, o conteúdo de **EP02-2022-2-read_only** poderá não ser copiado. Assim, 
+para **carregar** o seu conteúdo execute os seguintes comandos no terminal, a partir do diretório raiz deste repositório:
+
+        git submodule init
+
+        git submodule update
+
+    -  Arquivos do submodulos **EP02-2022-2-read_only** não devem ser alterados, caso contrário não conseguirão realizar um push do repositório;
+    -  Caso deseje ter uma versão particular dos testes que possa ser alterada, crie uma cópia do folder de testes fora deste submodulo. Neste caso, não esquecer de verificar suas implementações com os testes originais antes de entregar;
+
 * Não altere a  estrutura do repositório ou modifique nomes dos arquivos ou folders;
 
 * Implemente as funções ou testes solicitados sem realizar qualquer alteração em sua assinatura (nomes e parâmetros), visto que esta avaliação terá como parte de sua correção a execução de testes automáticos;
